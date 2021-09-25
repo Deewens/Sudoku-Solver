@@ -1,8 +1,4 @@
-# sudoku-solver
-
-> English version (Version française plus bas)
-
-> Screenshots available below
+# Sudoku Solver
 
 A simple sudoku solver in command line.
 
@@ -12,40 +8,15 @@ A simple sudoku solver in command line.
 
 ## Known issues
 
-* The program works almost well, but there's still a small bug that doesn't solve sudoku correctly.
+* The program works almost well, but there's still a small bug that doesn't solve sudoku correctly (depending of the grid). I'll try to fix it one day.
 
-## Technologies used
+## Language used
 
 C
 
 ## Authors
 
-* Deewens
-* Arthur (https://github.com/Arthur57255)
-
----
-
-> Version française
-
-> Screenshots disponible plus bas
-
-Un simple résolveur de sudoku en ligne de commande.
-
-## Fonctionnalités
-
-* Le programme lit une grille à partir d'un fichier txt et résout le sudoku.
-
-## Problèmes connus
-
-* Le programme fonctionne presque bien, mais il reste un petit bug qui ne résout pas correctement le sudoku
-
-## Technologies utilisées
-
-C
-
-## Auteurs
-
-* Deewens
+* Adrien (Me)
 * Arthur (https://github.com/Arthur57255)
 
 # Screenshots
